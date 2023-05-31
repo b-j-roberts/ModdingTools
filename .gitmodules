@@ -1,0 +1,3 @@
+[submodule "Wild-Bits"]
+	path = Wild-Bits
+	url = https://github.com/b-j-roberts/Wild-Bits.git
